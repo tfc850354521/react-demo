@@ -1,0 +1,12 @@
+.navbar{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background: #ffffff;
+    z-index: 1;
+}
+.am-navbar-light{
+
+    box-shadow: 1px 0 2px rgb(155, 154, 154);
+    
+}

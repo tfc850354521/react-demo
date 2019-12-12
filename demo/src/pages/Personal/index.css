@@ -1,0 +1,39 @@
+.personal-header-load{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.personal-header-load img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.personal{
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+    position: fixed;
+    z-index: 1;
+}
+.personal-header{
+    width: 100%;
+    height: 4.666667rem;
+    background: rgb(0, 107, 207);
+    text-align: center;
+    position: relative;
+}
+.personal-header-username{
+    color: #ffffff;
+    margin-top: 5px;
+}
+.my-accordion .pad .am-accordion-content-box {
+    padding: 10px;
+  }
+  .tabbar{
+      z-index: 3;
+  }

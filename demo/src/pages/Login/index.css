@@ -1,0 +1,13 @@
+
+html,body,.App,#root{
+    width: 100%;
+    height: 100% !important;
+
+}
+.login{
+    width: 100%;
+    position: fixed;
+    background: #ffffff;
+    height: 100%;
+    z-index: 1;
+}

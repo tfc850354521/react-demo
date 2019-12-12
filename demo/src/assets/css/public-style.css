@@ -1,0 +1,23 @@
+head,body,html,a,p,ul,li,ol,dl,dd,dt,h1,h2,h3,h4,h5,b,i,strong,em,span,img,div,table,form,input,nav,aside,section{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ol,ul{
+    list-style:none;
+}
+img{
+    border: 0;
+    vertical-align:middle;
+}
+.after::after{
+    content: ".";
+    clear: both;
+    display: block;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    font-size: 1px;
+}

@@ -1,0 +1,33 @@
+
+.register{
+    width: 100%;
+    position: fixed;
+    background: #ffffff;
+    height: 100%;
+    z-index: 1;
+    
+}
+.upload{
+    width: 1.333333rem;
+    height: 1.333333rem;
+    margin: 0 auto;
+    position: relative;
+    margin-bottom:5px ;
+}
+#file,#newFile{
+    width: 1.333333rem;
+    height: 1.333333rem;
+    position: absolute;
+    z-index: 1;
+    top: 18%;
+    opacity: 0;
+}
+.upload img{
+    width: 1.333333rem;
+    height: 1.333333rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 0px 7px rgb(54, 52, 52);
+    border-radius: 5px;
+}

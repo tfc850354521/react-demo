@@ -1,0 +1,10 @@
+.App{
+    display: flex;
+    flex-direction: column;
+
+}
+.tabbar{
+    width: 100%;
+    position: fixed;
+    bottom:0;
+}

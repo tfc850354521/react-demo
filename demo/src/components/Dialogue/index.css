@@ -1,0 +1,67 @@
+.user-upload{
+    width: 1rem;
+    height: 1rem;
+    box-shadow: 0px 0px 3px rgb(54, 52, 52);
+    border-radius: 5px;
+    
+    
+}
+.user-upload img{
+    width: 1rem;
+    height: 1rem;
+}
+
+.user-dialogue{
+    display: flex;
+    justify-content: left;
+    margin: 10px ;
+}
+.user-name{
+    font-weight: bolder;
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.content{
+    margin-left:10px ;
+}
+.information{
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px rgb(148, 142, 142);
+    background: #ffffff;
+}
+
+
+.user-upload-right{
+    width: 1rem;
+    height: 1rem;
+    box-shadow: 0px 0px 3px rgb(54, 52, 52);
+    border-radius: 5px;
+    
+    
+}
+.user-upload-right img{
+    width: 1rem;
+    height: 1rem;
+}
+
+.user-dialogue-right{
+    display: flex;
+    justify-content:flex-end;
+    margin: 10px ;
+}
+.user-name-right{
+    font-weight: bolder;
+    font-size: 13px;
+    margin-bottom: 5px;
+    text-align: right;
+}
+.content-right{
+    margin-right:10px ;
+}
+.information-right{
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px rgb(148, 142, 142);
+    background: #ffffff;
+}
